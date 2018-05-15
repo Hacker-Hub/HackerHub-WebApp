@@ -12,9 +12,8 @@ The HackerHub website but in a web application form for Windows, macOS, and Linu
 | RAM                    | 128MB        | 128MB      | 128MB                                |128MB   | 500MB+|   
 
 This was all made possible by [nativefier](https://www.npmjs.com/package/nativefier) an NPM application that can convert websites to local web applications that can be executed on macOS, Windows, and most Linux Distributions.  
-  
-**Note:** 32-Bit iOS users may encounter some issues.  
-**Note:** iPhone 4S users may encounter some issues
+
+**Note:** Apple A5 Chip and other 32-Bit users may encounter some issues
 
 ## Credits
 
